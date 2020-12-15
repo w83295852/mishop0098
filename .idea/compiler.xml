@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mishop-order-web" />
+        <module name="mishop-interface" />
+        <module name="mishop-bean" />
+        <module name="mishop-common-util" />
+        <module name="mishop-user-manage" />
+        <module name="mishop-web-util" />
+        <module name="mishop-service-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mishop-bean" target="1.8" />
+      <module name="mishop-common-util" target="1.8" />
+      <module name="mishop-interface" target="1.8" />
+      <module name="mishop-order-web" target="1.8" />
+      <module name="mishop-parent" target="1.8" />
+      <module name="mishop-service-util" target="1.8" />
+      <module name="mishop-user-manage" target="1.8" />
+      <module name="mishop-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mishop-bean" options="-parameters" />
+      <module name="mishop-common-util" options="-parameters" />
+      <module name="mishop-interface" options="-parameters" />
+      <module name="mishop-order-web" options="-parameters" />
+      <module name="mishop-service-util" options="-parameters" />
+      <module name="mishop-user-manage" options="-parameters" />
+      <module name="mishop-web-util" options="-parameters" />
+    </option>
+  </component>
+</project>

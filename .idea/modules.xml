@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mishop-bean/mishop-bean.iml" filepath="$PROJECT_DIR$/mishop-bean/mishop-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mishop-common-util/mishop-common-util.iml" filepath="$PROJECT_DIR$/mishop-common-util/mishop-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mishop-interface/mishop-interface.iml" filepath="$PROJECT_DIR$/mishop-interface/mishop-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mishop-order-web/mishop-order-web.iml" filepath="$PROJECT_DIR$/mishop-order-web/mishop-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mishop-parent/mishop-parent.iml" filepath="$PROJECT_DIR$/mishop-parent/mishop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mishop-service-util/mishop-service-util.iml" filepath="$PROJECT_DIR$/mishop-service-util/mishop-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mishop-user-manage/mishop-user-manage.iml" filepath="$PROJECT_DIR$/mishop-user-manage/mishop-user-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mishop-web-util/mishop-web-util.iml" filepath="$PROJECT_DIR$/mishop-web-util/mishop-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mishop0098.iml" filepath="$PROJECT_DIR$/.idea/mishop0098.iml" />
+    </modules>
+  </component>
+</project>
